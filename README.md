@@ -1,6 +1,6 @@
 # Upskill AI 🎓🤖
 
-Upskill AI is a web-based platform designed to help students and professionals prepare for technical interviews and upskill themselves in the field of Artificial Intelligence, Data Science, and Software Development. This project integrates coding practice, technical MCQs, communication training, and project-based learning to deliver a complete upskilling experience.
+Upskill AI is a web-based platform designed to help students and professionals prepare for technical interviews and upskill themselves. This project integrates coding practice, technical MCQs and communication training to deliver a complete upskilling experience.
 
 ---
 
